@@ -1,0 +1,13 @@
+name = "Joe's Comfy UI"
+filename = "BCG+ Texture Pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e6a0fce6fb632b2e65a05daa948957d27c25148"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5652667
+project-id = 923668

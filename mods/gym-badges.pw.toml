@@ -1,0 +1,13 @@
+name = "Gym Badges"
+filename = "GymBadges-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e658143f9fa857c12d50e21dbf21336cceb50336"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4765560
+project-id = 878095

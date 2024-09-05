@@ -1,0 +1,13 @@
+name = "Serified Font"
+filename = "Serified Font v1.1 f1-34.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1eef49338ffa5749ab72156bd351e1e7ae6daa9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5473449
+project-id = 882877

@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] EMI Compat"
+filename = "emi-letsdo-compat-fabric-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52e9aac6357e397cd93c4f29a3c6c04051e9d929"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5537566
+project-id = 1063821

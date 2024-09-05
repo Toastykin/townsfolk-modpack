@@ -1,0 +1,13 @@
+name = "BCG+ Sound Pack"
+filename = "BCG+ Sound Pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76e48be6752cece0f5a9c629ee371008ffd3b906"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5609345
+project-id = 987420

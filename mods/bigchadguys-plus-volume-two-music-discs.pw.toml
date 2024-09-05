@@ -1,0 +1,13 @@
+name = "BigChadGuys Plus, Vol. 2 Music Discs"
+filename = "bcgmusic-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35c9d2eff343c403e58476dee331d25991e05edb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5652910
+project-id = 1086108

@@ -1,0 +1,13 @@
+name = "BCG+ Datapack"
+filename = "BCG+ Datapack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6583b203991a28a7dd1c0366b9c88f88ce00910a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5652651
+project-id = 974532

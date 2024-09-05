@@ -1,0 +1,13 @@
+name = "stacc-api"
+filename = "stacc-1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e644ef01d03ccb14e8097f2de71808b8e3ada5a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4995895
+project-id = 820136

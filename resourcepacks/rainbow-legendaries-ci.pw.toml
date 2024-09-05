@@ -1,0 +1,13 @@
+name = "Rainbow Legendaries [CI]"
+filename = "Rainbow Legendaries.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bee3d9d1e7c36589981c64f951602c438f29b8e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5616699
+project-id = 1081173

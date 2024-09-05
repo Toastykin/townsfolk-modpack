@@ -1,0 +1,13 @@
+name = "BCG+ Cobblemon Loot Pack"
+filename = "BCG+ Cobblemon Loot Pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "552c64a38e7043fb28406a209be3f8f343a750d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5609391
+project-id = 1074151
