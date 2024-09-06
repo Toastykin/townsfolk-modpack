@@ -1,6 +1,6 @@
 name = "BCG+ Compat Pack"
 filename = "BCG+ Compat Pack.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

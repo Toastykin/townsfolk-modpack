@@ -1,13 +1,13 @@
 name = "Whimscape"
 filename = "Whimscape_1.20-1.20.1_r1.zip"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "e37356e3cdb249de2712b0415383925a7688fc58"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4YkvO5Rp/versions/F8nXNsRe/Whimscape_1.20-1.20.1_r1.zip"
+hash-format = "sha512"
+hash = "f2c7e193fcc39ed52060b17636eb73d56b1c816349d3761e459ab3f7f6b3cc3e63c473586fcd5423bfd6e2ca093120a4a22844b7c14752770b98e9c19cc2172f"
 
 [update]
-[update.curseforge]
-file-id = 5196077
-project-id = 682643
+[update.modrinth]
+mod-id = "4YkvO5Rp"
+version = "F8nXNsRe"

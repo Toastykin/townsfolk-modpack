@@ -1,6 +1,6 @@
 name = "Tom's Create Storage"
 filename = "Create Simple Storage 2.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

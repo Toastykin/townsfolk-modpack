@@ -1,6 +1,6 @@
 name = "SeasonHUD (Fabric)"
 filename = "seasonhud-fabric-1.20.1-1.9.6.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Joe's Comfy UI"
 filename = "BCG+ Texture Pack.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

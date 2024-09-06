@@ -1,6 +1,6 @@
 name = "BCG+ x Whimscape Compat Pack"
 filename = "BCG+ x Whimscape Compat Pack.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
