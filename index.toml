@@ -2161,6 +2161,11 @@ file = "journeymap/server/5.9/journeymap.server.minecraft~the_nether.config"
 hash = "327f7a9230c897bc6195a33db536d7c3f4e8613ee4e745117d65e581272da1e7"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "4d0eb25d1b5ba1f44cc9c568f8ba8ee88003b371a22ce397994a4e6cbf57ba32"
+metafile = true
+
+[[files]]
 file = "mods/Structory_1.20.x_v1.3.5.jar"
 hash = "43f4b4b88bb9caa1114928a93e787335e56171b5233a545bf2f4da1ce9fe943b"
 
@@ -2200,7 +2205,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "fac27f24d9e6c73434dfbda5c91ecdd203fb8394ce70f57392da6079f39b866e"
+hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
 
 [[files]]
@@ -2263,10 +2268,6 @@ hash = "b2be1a4e931c4d081615e63924bb7fa134b8d8329e80fed96f46a03f7891fefd"
 metafile = true
 
 [[files]]
-file = "mods/bcg_smp-1.0.1.jar"
-hash = "cb3588369ec829a975bc81c24c3ab49bfba2582e96671d8bf0bdfb027ed27d60"
-
-[[files]]
 file = "mods/bcgmusic-1.1.0-1.20.1.jar"
 hash = "0a05cf258a21a273abe42699565e7e2e2164703e2c252e15f34716a916ce9ed1"
 
@@ -2320,11 +2321,6 @@ file = "mods/bigchadguys-plus-volume-two-music-discs.pw.toml.0"
 hash = "0626a38a33652f23f0cc168cb2ead2d9b3bbe163f6500ee6674d4b0221163d20"
 
 [[files]]
-file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "50702761d44d49301519516d405872faed540099a70ffd6bb352a8a905f410b4"
-metafile = true
-
-[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "67c0bda3a8e0b6be665d2d566bca4523c902f655e7b6c94cacb42506ee8d1026"
 metafile = true
@@ -2360,8 +2356,18 @@ hash = "b11eb6375e438f1fbf4fe6245e5500a7e624c83ec06774b5afa99aee1e17ced8"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "ec2c437fe50a3f8ea6077215974ba9f769cb94eb29432156cbbe43137a74013f"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "3b45878fbe0e15944f9d4c159741548debf4d775fd9e2f9992dcd1719c08b3da"
+metafile = true
+
+[[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "f9a69af0c4d6a3e958227ca4d3bfe4930ffc734bc7df5616587225dec89c6ae6"
 metafile = true
 
 [[files]]
@@ -2520,6 +2526,11 @@ hash = "2b59237de53c179aa6906a3ef1335922025e9ce922402a49e33dc78e1a954a6d"
 metafile = true
 
 [[files]]
+file = "mods/create-crystal-clear.pw.toml"
+hash = "d441200178f8ef0e87a872a495fa0a502139ddd48036b2ede516f4fcd8660be1"
+metafile = true
+
+[[files]]
 file = "mods/create-deco-fabric.pw.toml"
 hash = "04d95de568270ce6b115aefb77dd9a8a9511398d4305f1ca2798310b75851e67"
 metafile = true
@@ -2547,6 +2558,16 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "e208db5949d740af56dc496ede6b6bf18be256f3a0c5a589b128ec7a402f615f"
+metafile = true
+
+[[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "96b0da15913458b2d1aa9ba1f95bb55ea34867625e0018f4c765562dab055313"
+metafile = true
+
+[[files]]
+file = "mods/create-train-perspective.pw.toml"
+hash = "3a7e9ae9a7ff284d61665a98149fbb07c67b9235315473440ceb9d121a45209e"
 metafile = true
 
 [[files]]
@@ -2657,6 +2678,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "c0013467b23f106e535f95c8f71edce2628e91cf68edc6cb05042538928569c9"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.pw.toml"
+hash = "180cf54939ba1316f67960486cdc9da00d805f8511f12169af38719323a8e291"
 metafile = true
 
 [[files]]
@@ -2771,7 +2797,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
-hash = "50482d5a72bfa5d43b47e7e413303bf84dee9b1d5e04454e82e9b1e9a7465054"
+hash = "9333d2b98ca097201ce03392824769bd4d4dc1775542914445ec342f2ce5f3a2"
 metafile = true
 
 [[files]]
@@ -3016,7 +3042,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
-hash = "61a81f975efb82b2498ddd18aad5c5fb4f1153fccc394d1543583c7394eaac02"
+hash = "2dbcea9b316e168f37c26da9dc15dca4176bbe73d2d8dbabcb217efe3b250a57"
 metafile = true
 
 [[files]]
@@ -3643,6 +3669,11 @@ hash = "6238bebd69d6d71f66e2f65e4fec2307963a785e2695dfaf15b1f69ab7ea6469"
 metafile = true
 
 [[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "5dfb954a4eda4d12ea62001ad893960d855893bf01bf2dbefc12db92cb67d544"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "acd55735f9afdce738488f79a359c799438447d13803929c74d45921f85f09a2"
 metafile = true
@@ -3712,8 +3743,8 @@ file = "options.txt"
 hash = "37c4b42a9cec742f32d6ff6ee0af0284ed0590f7f98a916897d899455e9dd719"
 
 [[files]]
-file = "resourcepacks/Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip"
-hash = "6d12fb6d13d365387928317c6687a56cdec539ec217d1e7e1793b62f58d78c65"
+file = "resourcepacks/BCG+ Compat Pack.zip"
+hash = "71a808c9d87ae93f27cfe4612a68eb55e3adf83308ab46e8bd79a5a0a267e342"
 
 [[files]]
 file = "resourcepacks/JourneyMon-NoVanilla.zip"
@@ -3748,11 +3779,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/bcg-datapack.pw.toml"
 hash = "aa25d767f58d591064d5e1b839061080b6050a5d88c8a91900533d1225ab7ece"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bcg-plus-compat-pack.pw.toml"
-hash = "e377c9dd4e22a6399fb4b384d411875b947c15fc3e1977f008ff428c1f12737b"
 metafile = true
 
 [[files]]
@@ -3811,13 +3837,18 @@ hash = "51a9f49649c17c226cb882220a0da0505739c3a773e68529874d0cffedbe77ed"
 metafile = true
 
 [[files]]
+file = "resourcepacks/sparkles.pw.toml"
+hash = "52a3fceedad6df264d6807353b92ca579d8b4903e4cc4d71388d8d728bfffd9a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/whimscape.pw.toml"
 hash = "3c9d0d836d3aeabd905588659e8918cbb643cfa96f2a20b0a160ef761ffcf552"
 metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "dbf81082ee406ef5d0b877d0fe735aee6d775491d8c55502d147f97b443e3362"
+hash = "961b40e208e19030995c35229da5ef6ac28ef8fe669281167dca843e88dbdfa4"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1 Modified by BCG.zip"

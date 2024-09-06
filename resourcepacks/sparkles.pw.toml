@@ -1,0 +1,13 @@
+name = "Sparkles: Stardust Labs Resourcepack"
+filename = "Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HfNmMQ9E/versions/jdk9dkDF/Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip"
+hash-format = "sha512"
+hash = "4859204681b5378be40864e5026e07751a71e35aaef716faccba1f9d8274789bacbdcdb0e124537e62fb8fa1ae11ab9727386b955d305bd8ad488ea8b406455f"
+
+[update]
+[update.modrinth]
+mod-id = "HfNmMQ9E"
+version = "jdk9dkDF"
