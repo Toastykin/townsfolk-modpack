@@ -2523,6 +2523,11 @@ hash = "3ff1d34ddafc7701525ab93da60759985a8f03204ebdaaee8debc34ca9f2905a"
 metafile = true
 
 [[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "2b59237de53c179aa6906a3ef1335922025e9ce922402a49e33dc78e1a954a6d"
+metafile = true
+
+[[files]]
 file = "mods/create-deco-fabric.pw.toml"
 hash = "04d95de568270ce6b115aefb77dd9a8a9511398d4305f1ca2798310b75851e67"
 metafile = true
@@ -2540,6 +2545,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "89d563aa62aae2c608f1006a1d31186b9657dc53a869fd53e94c467423a3a146"
 metafile = true
 
 [[files]]
@@ -2685,6 +2695,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "252aa2201a4c80985b1904c5a1c34e3ccf77ecd73db9db2149dcf27effa41327"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "ee992c945097b2ba7d72542fc12cc5bad8dfb8a0f98e2a9f779a3598e2b0cea5"
 metafile = true
 
 [[files]]
