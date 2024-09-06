@@ -2,21 +2,19 @@ type = fancymenu_layout
 
 layout-meta {
   identifier = drippy_loading_overlay
-  render_custom_elements_behind_vanilla = false
-  last_edited_time = 1719647877899
+  render_custom_elements_behind_vanilla = true
+  last_edited_time = 1725590821296
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:e35a5564-c50b-4928-9625-e03bd6c022d1-1719647855541] = [groups:][instances:]
+  [loading_requirement_container_meta:b57261cf-acf6-48ff-87d1-a189e47e20ca-1725590789412] = [groups:][instances:]
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/loading_screen_background.png
-  slide = false
-  repeat_texture = false
-  background_type = image
+  color = #70b189
+  background_type = drippy_color_background
 }
 
 customization {
@@ -31,34 +29,6 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
-}
-
-element {
-  source = made by joe :]
-  source_mode = direct
-  shadow = false
-  case_mode = normal
-  scale = 1.0
-  alignment = left
-  text_border = 0
-  line_spacing = 1
-  enable_scrolling = true
-  element_type = fancymenu_customization_item_text
-  instance_identifier = 776232cc-3d51-4840-92da-722809eea0141690522423386
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = bottom-left
-  x = 8
-  y = -19
-  width = 102
-  height = 17
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = c3fd8d37-0c81-41fd-b784-c481d9efcfed-1719647855541
-  [loading_requirement_container_meta:c3fd8d37-0c81-41fd-b784-c481d9efcfed-1719647855541] = [groups:][instances:]
 }
 
 element {
@@ -87,27 +57,70 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/splash_screen_logo.png
+  interactable = true
+  source = ^^^%n%made by joe%n%you are loved ❤%n%^^^
+  source_mode = direct
+  shadow = false
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = false
+  auto_line_wrapping = false
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = c2169390-95b1-40bf-ae52-c912c2766feb-1724937935873
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = progress_bar
+  x = 76
+  y = 37
+  width = 105
+  height = 29
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 2d459ba4-4be4-4f7c-8543-7ce09fde2152-1724937935873
+  [loading_requirement_container_meta:2d459ba4-4be4-4f7c-8543-7ce09fde2152-1724937935873] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/splash_logo.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
   nine_slice_texture_border_y = 5
   element_type = image
-  instance_identifier = 47f415b0-750a-4138-9d50-dcf3c34acb621710823982179
+  instance_identifier = 89b854f4-191c-46be-8986-8bf71c5b7d71-1724950863066
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
   x = -150
-  y = -100
+  y = -99
   width = 301
-  height = 90
+  height = 88
   stretch_x = false
   stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = f9521844-e76b-4db0-a53b-3f4c59e6c5d9-1716242142548
-  [loading_requirement_container_meta:f9521844-e76b-4db0-a53b-3f4c59e6c5d9-1716242142548] = [groups:][instances:]
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = e64ff41f-2a67-4562-9867-b8aff936cb12-1724950863066
+  [loading_requirement_container_meta:e64ff41f-2a67-4562-9867-b8aff936cb12-1724950863066] = [groups:][instances:]
 }
 
 vanilla_button {
@@ -127,7 +140,7 @@ vanilla_button {
   fade_in_speed = 1.0
   anchor_point = mid-centered
   x = -128
-  y = 45
+  y = 33
   width = 257
   height = 28
   stretch_x = false

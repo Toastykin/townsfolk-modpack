@@ -1,12 +1,12 @@
-name = "BigChadGuys Plus Toasty Edition"
-author = "Fummo"
-version = "2.6.1.1"
+name = "BCG+ Toasty Edition"
+author = "jflec, Fummo"
+version = "2.7.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e41bddec4e0cf788e5ba122be81b2724024188b526ea47966d55675849eba7e2"
+hash = "6bcddbeea98076e6936646510366e53dfae2c5a252ed1857563127cf19edf120"
 
 [versions]
 fabric = "0.16.0"

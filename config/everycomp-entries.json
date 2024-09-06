@@ -1,6 +1,33 @@
 {
   "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
   "types": {
+    "cake": {
+      "createaddition.chocolate_cake": true,
+      "createaddition.honey_cake": true,
+      "ubesdelight.ube_cake": true
+    },
+    "wood_type": {
+      "betterend.mossy_glowshroom": true,
+      "betterend.pythadendron": true,
+      "betterend.end_lotus": true,
+      "betterend.lacugrove": true,
+      "betterend.dragon_tree": true,
+      "betterend.tenanea": true,
+      "betterend.helix_tree": true,
+      "betterend.umbrella_tree": true,
+      "betterend.jellyshroom": true,
+      "betterend.lucernia": true,
+      "cobblemon.apricorn": true,
+      "vinery.dark_cherry": true,
+      "luphieclutteredmod.luphie_flowering_pink": true,
+      "luphieclutteredmod.luphie_yellow": true,
+      "luphieclutteredmod.luphie_flowering_yellow": true,
+      "luphieclutteredmod.luphie_green": true,
+      "luphieclutteredmod.luphie_glow": true,
+      "luphieclutteredmod.luphie_purple": true,
+      "luphieclutteredmod.luphie_flowering_purple": true,
+      "luphieclutteredmod.luphie_pink": true
+    },
     "leaves_type": {
       "chipped.apple_acacia": true,
       "chipped.cherry_acacia": true,
@@ -77,39 +104,9 @@
       "vinery.grapevine": true,
       "vinery.dark_cherry": true,
       "vinery.apple": true
-    },
-    "wood_type": {
-      "betterend.mossy_glowshroom": true,
-      "betterend.pythadendron": true,
-      "betterend.end_lotus": true,
-      "betterend.lacugrove": true,
-      "betterend.dragon_tree": true,
-      "betterend.tenanea": true,
-      "betterend.helix_tree": true,
-      "betterend.umbrella_tree": true,
-      "betterend.jellyshroom": true,
-      "betterend.lucernia": true,
-      "cobblemon.apricorn": true,
-      "vinery.dark_cherry": true,
-      "luphieclutteredmod.luphie_flowering_pink": true,
-      "luphieclutteredmod.luphie_yellow": true,
-      "luphieclutteredmod.luphie_flowering_yellow": true,
-      "luphieclutteredmod.luphie_green": true,
-      "luphieclutteredmod.luphie_glow": true,
-      "luphieclutteredmod.luphie_purple": true,
-      "luphieclutteredmod.luphie_flowering_purple": true,
-      "luphieclutteredmod.luphie_pink": true
-    },
-    "cake": {
-      "createaddition.chocolate_cake": true,
-      "createaddition.honey_cake": true,
-      "ubesdelight.ube_cake": true
     }
   },
   "entries": {
-    "leaves_type": {
-      "mcwfences.hedge": true
-    },
     "wood_type": {
       "chipped.fine_planks": true,
       "chipped.checkered_trapdoor": true,
@@ -117,6 +114,7 @@
       "mcwfurnitures.stripped_glass_table": true,
       "handcrafted.fancy_bed": true,
       "chipped.tiled_door": true,
+      "bbb.ladder": true,
       "chipped.center_cut_log": true,
       "mcwroofs.lower_roof": true,
       "chipped.pegged_planks": true,
@@ -136,6 +134,7 @@
       "mcwroofs.steep_roof": true,
       "mcwdoors.four_panel_door": true,
       "mcwfurnitures.stripped_drawer_counter": true,
+      "bbb.support": true,
       "chipped.beach_door": true,
       "chipped.fine_vertical_planks": true,
       "chipped.diamond_bordered_glass": true,
@@ -161,12 +160,14 @@
       "farmersdelight.cabinet": true,
       "chipped.detailed_planks": true,
       "mcwfurnitures.stripped_covered_desk": true,
+      "bbb.layer": true,
       "mcwfurnitures.stripped_cupboard_counter": true,
       "mcwtrpdoors.cottage_trapdoor": true,
       "chipped.cobweb_trapdoor": true,
       "mcwfurnitures.stripped_triple_drawer": true,
       "mcwfurnitures.stripped_chair": true,
       "chipped.barred_trapdoor": true,
+      "bbb.beam_slab": true,
       "mcwbridges.rope_bridge": true,
       "chipped.airy_trapdoor": true,
       "handcrafted.couch": true,
@@ -180,6 +181,7 @@
       "mcwbridges.log_bridge_middle": true,
       "mcwfurnitures.stripped_large_drawer": true,
       "mcwwindows.stripped_log_window": true,
+      "bbb.trim": true,
       "chipped.solid_trapdoor": true,
       "mcwfurnitures.wardrobe": true,
       "chipped.boarded_door": true,
@@ -205,6 +207,7 @@
       "chipped.reinforced_log": true,
       "mcwfurnitures.chair": true,
       "mcwfurnitures.stripped_table": true,
+      "bbb.pallet": true,
       "mcwfurnitures.double_drawer_counter": true,
       "chipped.classic_windowed_trapdoor": true,
       "chipped.wickered_planks": true,
@@ -233,6 +236,7 @@
       "mcwdoors.barn_door": true,
       "chipped.glass_door": true,
       "chipped.paneled_door": true,
+      "bbb.wall": true,
       "chipped.leafy_trapdoor": true,
       "mcwfurnitures.stripped_double_drawer": true,
       "chipped.pointless_trapdoor": true,
@@ -245,6 +249,7 @@
       "mcwdoors.classic_door": true,
       "chipped.windowed_trapdoor": true,
       "chipped.tile_windowed_door": true,
+      "bbb.beam": true,
       "chipped.golden_barred_trapdoor": true,
       "handcrafted.counter": true,
       "mcwroofs.planks_upper_steep_roof": true,
@@ -280,6 +285,7 @@
       "mcwtrpdoors.blossom_trapdoor": true,
       "mcwroofs.upper_lower_roof": true,
       "mcwwindows.stripped_log_window2": true,
+      "bbb.frame": true,
       "chipped.planked_log": true,
       "mcwdoors.beach_door": true,
       "mcwfurnitures.stripped_stool_chair": true,
@@ -296,6 +302,7 @@
       "mcwfurnitures.glass_table": true,
       "chipped.woven_trapdoor": true,
       "mcwlights.tiki_torch": true,
+      "bbb.beam_stairs": true,
       "chipped.gated_door": true,
       "chipped.supported_door": true,
       "chipped.line_bared_glass_pane": true,
@@ -377,6 +384,7 @@
       "mcwwindows.plank_parapet": true,
       "mcwwindows.blinds": true,
       "mcwfurnitures.triple_drawer": true,
+      "bbb.lantern": true,
       "another_furniture.table": true,
       "chipped.stacked_planks": true,
       "mcwroofs.planks_lower_roof": true,
@@ -393,6 +401,9 @@
       "mcwtrpdoors.barrel_trapdoor": true,
       "another_furniture.chair": true,
       "chipped.nailed_log": true
+    },
+    "leaves_type": {
+      "mcwfences.hedge": true
     }
   }
 }

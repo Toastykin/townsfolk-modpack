@@ -1,13 +1,13 @@
 name = "Cobblemon Icons BCG [CI]"
-filename = "CobblemonIconsv3.0.zip"
+filename = "Cobblemon Icons v3.1.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "0339e69a67c2b900b9b8b7408480d02c2fc35a94"
+hash = "25be2d35ebac3ef45b429cf012e317f3e5f396cd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5609985
+file-id = 5663879
 project-id = 1025885

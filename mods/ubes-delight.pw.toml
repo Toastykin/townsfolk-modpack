@@ -1,13 +1,13 @@
 name = "Ube's Delight"
-filename = "ubesdelight-fabric-1.20.1-0.1.5.4.jar"
+filename = "ubesdelight-fabric-1.20.1-0.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5499376b43f33b248acb4176ff29b1a171fb060d"
+hash = "1eaf11ccd512ad0d36624001ca67ec9b23ffc675"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5331011
+file-id = 5696215
 project-id = 903894

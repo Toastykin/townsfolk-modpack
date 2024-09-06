@@ -240,5 +240,49 @@
         "ignore": true,
         "playerSideOnly": true,
         "force": true
+    },
+    "net.satisfy.bakery.client.gui.CookingPotGui": {
+        "ignore": true,
+        "playerSideOnly": true,
+        "disableFastSwipe": true,
+        "force": true
+    },
+    "net.satisfy.bakery.client.gui.handler.CookingPotGuiHandler": {
+        "ignore": true,
+        "playerSideOnly": true,
+        "force": true
+    },
+    "fuzs.illagerinvasion.client.gui.screens.inventory.ImbuingScreen": {
+        "ignore": true,
+        "playerSideOnly": true,
+        "disableFastSwipe": true,
+        "force": true
+    },
+    "fuzs.illagerinvasion.world.inventory.ImbuingMenu": {
+        "ignore": true,
+        "playerSideOnly": true,
+        "force": true
+    },
+    "net.mehvahdjukaar.supplementaries.client.screens.RedMerchantScreen": {
+        "ignore": true,
+        "playerSideOnly": true,
+        "disableFastSwipe": true,
+        "force": true
+    },
+    "net.mehvahdjukaar.supplementaries.common.inventories.RedMerchantMenu": {
+        "ignore": true,
+        "playerSideOnly": true,
+        "force": true
+    },
+    "immersive_aircraft.client.gui.VehicleScreen": {
+        "ignore": true,
+        "playerSideOnly": true,
+        "disableFastSwipe": true,
+        "force": true
+    },
+    "immersive_aircraft.screen.VehicleScreenHandler": {
+        "ignore": true,
+        "playerSideOnly": true,
+        "force": true
     }
 }
