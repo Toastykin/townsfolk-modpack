@@ -3,3 +3,6 @@
 
 # Exclude README
 /README.md
+
+# Exclude Curseforge links with API disabled
+/*.0
