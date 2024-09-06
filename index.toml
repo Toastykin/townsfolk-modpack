@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
-metafile = true
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -108,10 +103,6 @@ hash = "9eb7f3639d361ec09d02366832452ef1bd702eedf87fd070c4e10d30b276af73"
 [[files]]
 file = "config/bclib/biomes.json"
 hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
-
-[[files]]
-file = "config/bclib/cache.json"
-hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -295,7 +286,7 @@ hash = "3b12814ab221fe24cd5fee89c912e679dab0c90beeec9e01c615adff53309b29"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "e56a1de5a9d5455c77223d659bf4f3e8eaec0cf5babaf3d0f4c460878c18c08c"
+hash = "5aa23571a85065d1e1e8079a3225b6366c2ce286c2dd6d4bc3c960212511bb2e"
 
 [[files]]
 file = "config/cobblemon_quests/cobblemon_quests.config"
@@ -819,7 +810,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "b18b8c77b5dbfba4a7b3a122d4bb6873cf69e7242c2206fa5e08374d1995c495"
+hash = "098c4ec8c4bcd627a0f39b9f88c7cd41fba35f1d61ff07b168fbae0a82b31cb0"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -1720,10 +1711,6 @@ hash = "34b0bec9bd8c11543ef15e0f939422bd18a849956c2c3f9c9176dd01ca8ced10"
 [[files]]
 file = "config/voicechat/translations.properties"
 hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
-
-[[files]]
-file = "config/voicechat/username-cache.json"
-hash = "5bdbc558379b3c38de5a1029eecb2e2178b57e72993c30964c484caa8c18673e"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
@@ -3838,3 +3825,8 @@ hash = "1626ef70040a09edb1c92ead3d6787f60c4c62a14ca79bb9cb1aed54858c44f7"
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
 hash = "f2ebdaac9c3edf5e00e342ad9e7f1a5df5ff4156a26b4c8d07ce99fd97e379eb"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
+metafile = true
