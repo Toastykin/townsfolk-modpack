@@ -2345,6 +2345,11 @@ hash = "e5739bf8e8668a5d94ae545f7ddabcffcdfec64b0e72d7d2d88d8f64f480977e"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
+metafile = true
+
+[[files]]
 file = "mods/building-but-better.pw.toml"
 hash = "1717d7c029bf67f8f3b9ad547299ed119a7379cc810e7edcf77c3e8c123c97da"
 metafile = true
