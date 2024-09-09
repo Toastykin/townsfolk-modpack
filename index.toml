@@ -109,10 +109,6 @@ file = "config/bclib/biomes.json"
 hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
 
 [[files]]
-file = "config/bclib/cache.json"
-hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
-
-[[files]]
 file = "config/bclib/client.json"
 hash = "3fdd5d0f44e73596f4214546cbeec530497e02907c8792c4c84332d8c4d3a1cc"
 
@@ -834,7 +830,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "07b68f9d553525633847271cee07e80e51a6da17329e8ab17dc9f8f7fa4deb84"
+hash = "40283b506254d6da4a075c5af92f5d743ab4bfe129defc09a066a623c35848e2"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -2599,7 +2595,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "e265b095bf3db19e168de18032e9e71a013c4c146e2a3e7791d4e9badaf7bd9e"
+hash = "80c5ee4c23d552b939a151d7f694c3d046792dc45ff6dd0dbfbc88d1a2ba77a7"
 metafile = true
 
 [[files]]
