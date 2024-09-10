@@ -81,10 +81,6 @@ file = "config/artifacts/common.json5"
 hash = "736bec8c910558091bb749ac7adb013822a253a02f1f70637eb193952768d2b1"
 
 [[files]]
-file = "config/asynclocator.properties"
-hash = "033b7e7c6f52be8317a31d9608c4e48492abea06346580a5395887cd68a66458"
-
-[[files]]
 file = "config/attributefix.json"
 hash = "4a84cb2355a678cf426e28cca35fae09c0790299d419e77e98b87d40d8814953"
 
@@ -433,10 +429,6 @@ file = "config/dailyshop/trade_tables/six.json"
 hash = "fe83be925d2af40ef4b4930ff24178b777b3276270e57fe98e27547c34ec00ac"
 
 [[files]]
-file = "config/dailyshop/trade_tables/snowyspirit.json"
-hash = "542fec9fd048e8d2eafe2a3be43586b619b9a8d2dfcb7e21bb5fae398f6e1980"
-
-[[files]]
 file = "config/dailyshop/trade_tables/spawn_eggs.json"
 hash = "e707676630c0f0b58135742da04bb267102443f3de6fa261139b5a1ffc0d8d96"
 
@@ -451,10 +443,6 @@ hash = "d07a24a84c6c1dbc52c5fa25c6a6c394ee1efdc947f6d2745396af792b4ebb81"
 [[files]]
 file = "config/dailyshop/trade_tables/two.json"
 hash = "df449469ceea24d38318b1649db345ba2ffbb0b8ad6b0c1899b8c92234540287"
-
-[[files]]
-file = "config/deathlog.json5"
-hash = "91dd913b34ee1fdfc426bb48ed5fa3f38265d0b471d50252916c2a79b00ab289"
 
 [[files]]
 file = "config/debugify-descriptions.json"
@@ -677,10 +665,6 @@ file = "config/fancymenu/assets/hovered_music_button.png"
 hash = "a201a28222fb46f18eff71304363245b8a6b5ad6ddc2b97901886a182ec38040"
 
 [[files]]
-file = "config/fancymenu/assets/hovered_survey_button.png"
-hash = "e84850c0d403805bdc8bacd10e2b8961d3e78fba9ce1799e875c3bed9dd368e9"
-
-[[files]]
 file = "config/fancymenu/assets/icon16x16.png"
 hash = "16911a2f8bc1bbc68bcac19969c153c7d3d2bea8e0752cd438eb6923eb1de339"
 
@@ -695,10 +679,6 @@ hash = "802e4911cc107df41da582eb91cc9fc2d9c4b2124969913d998afe4598f9d46f"
 [[files]]
 file = "config/fancymenu/assets/language_button.png"
 hash = "ce6058143c2b1bea7df6c3a9fe186417b9e0af47ec94634134eaa581ecde2a31"
-
-[[files]]
-file = "config/fancymenu/assets/loading_screen_background.png"
-hash = "46913f551d61a872d267313a8435f7f558f2982e8eb8c099b3995bb81b6b7fd4"
 
 [[files]]
 file = "config/fancymenu/assets/mac_icon.icns"
@@ -723,10 +703,6 @@ hash = "de0540cf69c5c11d6b18d4a8fa0b996a40cfc997772cbecd6f43614572cc600a"
 [[files]]
 file = "config/fancymenu/assets/splash_screen_logo.png"
 hash = "6d3185184e6d0dee4c67a8321ace405b559002a09ebe65739875f8d716a10b8b"
-
-[[files]]
-file = "config/fancymenu/assets/survey_button.png"
-hash = "553b00cbf76026fb71e85ddcf2e6b9e220d6eb87e95f3f4b30f4a37622cef971"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -1459,10 +1435,6 @@ hash = "e5c67462c320051ae335bcd47d7669585625eca82ce1a041382ee16124f27632"
 [[files]]
 file = "config/resourceful-config-web.json"
 hash = "b81160ea33c9cfc9f674ccc0509f3bce1f4abb94c7b4c8b70b359ca9bf2ab488"
-
-[[files]]
-file = "config/resourcepackoverrides.json"
-hash = "2fbe10b9bbfa3d0ad5a0c2e1e56f23d364bd5707f6b5f0e88dce9ce1d9f9a78b"
 
 [[files]]
 file = "config/ribbits-fabric-1_20_1.toml"
@@ -2267,11 +2239,6 @@ hash = "63470864e8511f28cb971475b8b209f37df57b348e3ac61b363f49707536260f"
 metafile = true
 
 [[files]]
-file = "mods/async-locator.pw.toml"
-hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
-metafile = true
-
-[[files]]
 file = "mods/athena.pw.toml"
 hash = "0010a7d77197b9013617872691ee7f359b66a10496c2bc0d8ed4aa059db02dc2"
 metafile = true
@@ -2332,11 +2299,6 @@ metafile = true
 [[files]]
 file = "mods/bed-benefits.pw.toml"
 hash = "47868a5a6fd0c32dfdabdd8ef01d2f492dbec8664d855b7814e48771dc12ba73"
-metafile = true
-
-[[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "80135baba747c814c204c8fc47971d76c49e28c1c9bf40b74673b634e514aafb"
 metafile = true
 
 [[files]]
@@ -2424,11 +2386,6 @@ hash = "f9a69af0c4d6a3e958227ca4d3bfe4930ffc734bc7df5616587225dec89c6ae6"
 metafile = true
 
 [[files]]
-file = "mods/catalogue-fabric.pw.toml"
-hash = "ef794821afc6c3a4e9b4d0ff997070c1999ead673f6a39bf3fa7d3421484202e"
-metafile = true
-
-[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "41cbd529d0a8373a536f9b4550f96e5574c94d66029567b31d60cec32bf2604e"
 metafile = true
@@ -2455,12 +2412,12 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "a952fb0d69dd033d3577501d2a0b3f0e4c013fa8b5b06a66a0f22eff8df5066d"
+hash = "bae47b3a9f8312e237e0d89ae65e725ba8a0afbda0a02c5c439f508735c41b6e"
 metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
-hash = "8f3e01ad47042d186087576cd17e91f78576295e7ca16fb885550910cb97caa4"
+hash = "193330274fc322994aaeec470348f721e75ea3f1b27f77139ba004d3db680643"
 metafile = true
 
 [[files]]
@@ -2659,18 +2616,8 @@ hash = "345aa207823c19be60837101abfbb1aaba2acabf4feb8a3fc973fa67e4174a98"
 metafile = true
 
 [[files]]
-file = "mods/dark-paintings.pw.toml"
-hash = "da632819ce127cca9f1cb8bdb66603566da73dcc975a1afb735a04b4b06ad9b2"
-metafile = true
-
-[[files]]
 file = "mods/dark-utilities.pw.toml"
 hash = "25be1764f98497d622e746d4b549d13518a8127e6fafe935a5259fc63f738fc7"
-metafile = true
-
-[[files]]
-file = "mods/deathlog.pw.toml"
-hash = "9f3daccd678da70ac2df008e41541a963d95617a2e37025db070fe722a6dd77c"
 metafile = true
 
 [[files]]
@@ -3019,11 +2966,6 @@ hash = "ad55c89b64527718f512cfa6495f94fea4c3448aaaa9c449d8e51b80d69d4f26"
 metafile = true
 
 [[files]]
-file = "mods/iceberg-fabric.pw.toml"
-hash = "2ff9b2894dd43471b0f2d1779adcc15150e87c08e1ac9501635a04b975ae7c5c"
-metafile = true
-
-[[files]]
 file = "mods/idwtialsimmoedm.pw.toml"
 hash = "c21856c64bf3faf762371fe4d68b7f1976fc1bd539f7255509b55c4b5bc6f918"
 metafile = true
@@ -3089,11 +3031,6 @@ hash = "259b6e654e0bb7185d3c51f9b21a81e0e12e7d16c225b6788cf90ff92c1bd069"
 metafile = true
 
 [[files]]
-file = "mods/item-highlighter-fabric.pw.toml"
-hash = "6cf2e88edfb20a155fbb8aa22361b1790f62d46d05df2f86b5c120c00ff445ff"
-metafile = true
-
-[[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "7780c92a7cc9d48ca548cb3fb875bccf26a18fbf42456a6a059a86526e662cb1"
 metafile = true
@@ -3130,7 +3067,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
+hash = "d0042fd33b7ba0cec2c8110b623e91345d877261bb809d2b9c2278a817a937b2"
 metafile = true
 
 [[files]]
@@ -3289,11 +3226,6 @@ hash = "f22547d1524c6b82a20a1f172b23f2745a0f94755ccc2239ac8667fe1feca3fc"
 metafile = true
 
 [[files]]
-file = "mods/menulogue.pw.toml"
-hash = "a1b9847790b169ecc43ab579c82d20017d502b5eaf59a0304b515b774cfa72e6"
-metafile = true
-
-[[files]]
 file = "mods/mighty-mail-fabric.pw.toml"
 hash = "18c7110cb1d34a11dac668177e06687f94c2ddef4fb2500a6ef0e7aae98eb6dd"
 metafile = true
@@ -3394,11 +3326,6 @@ hash = "20f7c381590a3f06968a33de08137b3826ff1cfeafd5b383a6ea9a92497b8748"
 metafile = true
 
 [[files]]
-file = "mods/notenoughrecipebook.pw.toml"
-hash = "92420a8464f7da1f0b558bff33b1a0e7924acd0a4b72735c6ec6fd7a5495c0d0"
-metafile = true
-
-[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "32e2d40c761d984e1832e63d53661bc7dde0feb305f033fd906a7f32dfcc9e53"
 metafile = true
@@ -3480,7 +3407,7 @@ metafile = true
 
 [[files]]
 file = "mods/redirector.pw.toml"
-hash = "21e7b05ab7bb3eeef7a81106686868a204f918139221c5a57f07aae81e429af3"
+hash = "cc8a23b3e92ee3a858ecb6c900595194b0c68d9650145357b691cd152228e0e0"
 metafile = true
 
 [[files]]
@@ -3491,11 +3418,6 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "6a7cc570546e0446b647ef2e335f48d18936260616a42a0219777292b849d720"
-metafile = true
-
-[[files]]
-file = "mods/resource-pack-overrides.pw.toml"
-hash = "b3b295454c61997fc8e123e0fee441b8c0def0933a3aa30ebc566821c1af6173"
 metafile = true
 
 [[files]]
@@ -3550,7 +3472,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "b72f475de698e990b861aff8ad759913b6f063550e6d94cebf0cdd0bf4e0bdbb"
+hash = "54b7eb2ede1efd77a7a7e5203ab6fc6a6aeefd6a5562dd830e817e7eb23542a0"
 metafile = true
 
 [[files]]
@@ -3590,7 +3512,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "6c622ba7f91c31843cc394e056948a018db6a0e08b20b8dd9fc4182854d27715"
+hash = "c1321ba494c1a2c95150639b8b287951a357d087d08ce39b8de585402e285880"
 metafile = true
 
 [[files]]
@@ -3754,11 +3676,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "acd55735f9afdce738488f79a359c799438447d13803929c74d45921f85f09a2"
-metafile = true
-
-[[files]]
-file = "mods/yeetusexperimentus.pw.toml"
-hash = "ee6c83df1346151c01eed745c9ec109a37607715a84e1ae67266ba50970cc11d"
 metafile = true
 
 [[files]]
