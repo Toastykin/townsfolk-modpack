@@ -2274,10 +2274,6 @@ hash = "411e7ae3ac73c29974f97d0fb6bae74133c450939b7eb7d6cf3b806ee7160a3c"
 metafile = true
 
 [[files]]
-file = "mods/bcg-smp-core.pw.toml.0"
-hash = "370ebf0a50a33481d69a6583357d7df091be8d94a467a39de48cce8a7d4af821"
-
-[[files]]
 file = "mods/bcg-util.pw.toml"
 hash = "b2be1a4e931c4d081615e63924bb7fa134b8d8329e80fed96f46a03f7891fefd"
 metafile = true
@@ -2325,10 +2321,6 @@ metafile = true
 file = "mods/betterend.pw.toml"
 hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
 metafile = true
-
-[[files]]
-file = "mods/bigchadguys-plus-volume-two-music-discs.pw.toml.0"
-hash = "0626a38a33652f23f0cc168cb2ead2d9b3bbe163f6500ee6674d4b0221163d20"
 
 [[files]]
 file = "mods/bits-and-chisels.pw.toml"
@@ -3549,14 +3541,6 @@ metafile = true
 file = "mods/starter-kit.pw.toml"
 hash = "65e2f876769b7392d0a96fd7a5f8f108457ef87eaebe91b6dd0416ce543c071e"
 metafile = true
-
-[[files]]
-file = "mods/structory-towers.pw.toml.0"
-hash = "34b542ad473b6a70a744b3b6efbada3e9ca9d4033b625cfb0f99d6ef320b32c6"
-
-[[files]]
-file = "mods/structory.pw.toml.0"
-hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
