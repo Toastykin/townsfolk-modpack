@@ -3756,6 +3756,10 @@ file = "resourcepacks/BCG+ Compat Pack.zip"
 hash = "d1b3718d9ec15314391f8e9f3fe2d7e931e8431923ec2cbd8008794015f66f80"
 
 [[files]]
+file = "resourcepacks/Fummo Quick Head.zip"
+hash = "7aba49bd7bbc18fa6073e0d8b23b5c12b42de421f39b899e3b81928e2ac83841"
+
+[[files]]
 file = "resourcepacks/JourneyMon-NoVanilla.zip"
 hash = "3b7a05f96abd9b75d8d4ec27a88631c515059f5d855b3f5c96277a9fef7cbed6"
 
@@ -3823,11 +3827,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "33c625f334d68395ca1084fc7a3efb1cdd80d2d8c9eaf234150c64bd62054f1d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/head-craft.pw.toml"
-hash = "611b43ec45010f03a1541250443cfc2b06783909af759ef125b3c7c24fe54566"
 metafile = true
 
 [[files]]
