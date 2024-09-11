@@ -2224,6 +2224,11 @@ hash = "505f89da0af64879da1886bc0eb282ee13a4ae032aaa61a899a4a0a83f15dd6e"
 metafile = true
 
 [[files]]
+file = "mods/anvil-player-heads.pw.toml"
+hash = "6544df50ef0338aa7f3e78704384633aa69014034d5e8a1b8c203e7e8b5cd70c"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
@@ -2953,6 +2958,11 @@ hash = "4d126f78c43ca759abfae9b23bfa1cc24a05aaea89923007ad7382f128417b57"
 metafile = true
 
 [[files]]
+file = "mods/headfix.pw.toml"
+hash = "94ebce898c55856623be4582ad677b4888c1899b85dbe16bc9febe7151141c99"
+metafile = true
+
+[[files]]
 file = "mods/healing-campfire.pw.toml"
 hash = "c13c08f6d9ad7a8f2939f6bb5e55f7953fc465d8d29756b957035fc1dbf05a8a"
 metafile = true
@@ -3065,11 +3075,6 @@ metafile = true
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "dc1fcf1d5c656c6c18416551f474586f7d6539e67c3f3ab255069e1961de26b1"
-metafile = true
-
-[[files]]
-file = "mods/keepheadnames.pw.toml"
-hash = "f969a3b7798568c06dae520493dd6ee477ba9bcb1a6b5ea679927d598d6b79eb"
 metafile = true
 
 [[files]]
@@ -3340,6 +3345,11 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "32e2d40c761d984e1832e63d53661bc7dde0feb305f033fd906a7f32dfcc9e53"
+metafile = true
+
+[[files]]
+file = "mods/offline-daylight-stop.pw.toml"
+hash = "61c95da51f4241225c69fe35143d875421e0ccfd30b3ff76eda42296371ddd34"
 metafile = true
 
 [[files]]
@@ -3852,7 +3862,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "b2c3bb798b91f3015b87253b79c21af455b5edd3d7a24e7fc18d7f74b548a012"
+hash = "5037935437381b6d8563dfe25c788e243d75cc285f0ec734290d9cb43f175b31"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.2.2 - Modified by BCG.txt"
