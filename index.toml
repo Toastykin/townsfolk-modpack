@@ -217,18 +217,6 @@ file = "config/betterthirdperson.json5"
 hash = "151cb9f1ab722aa7026701e482e77cb13eeef2ce7c77cfbac997f719a81b1dbb"
 
 [[files]]
-file = "config/bhmenu/bhmenu-general.properties"
-hash = "c5af54314ea045f082eab7bcef73c6f570beed0619b18bcb50ef74a1dcb16edc"
-
-[[files]]
-file = "config/bhmenu/bhmenu-public_server_list.properties"
-hash = "098c26c288ef192017a74776522b13038f17ebdcec6674468d48b5726cd3895c"
-
-[[files]]
-file = "config/bhmenu/bhmenu-server_creator_banner.properties"
-hash = "6426ac4b3cd97bc2326b6faa9b0323af8c9745266b5bf5203be5fd60118f7a09"
-
-[[files]]
 file = "config/bin-mod.dat"
 hash = "1ab7b773c68626d7403a01dbe1695b2c58e9c3a784054f7e77ecf114747cb009"
 
@@ -806,7 +794,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "40283b506254d6da4a075c5af92f5d743ab4bfe129defc09a066a623c35848e2"
+hash = "9d8e51afc45c28b37d6bdf36a82e83f1419d697eb788c827e8b8e5d913942fc6"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -1462,7 +1450,7 @@ hash = "1e608c395ba9d2b4d52aa83d7e1b05f1b056242443c0d0e9008bda0d3def49b0"
 
 [[files]]
 file = "config/servercore.toml"
-hash = "72b0b4d348be040338f2d3ff21c1551d189888616a6ca878a773a8dc9ab7789d"
+hash = "d2b622d6b3b43b91310898837826688c3024f5710f49a6262fb7f21c6558f80e"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -1754,7 +1742,7 @@ hash = "13689a816327702eed6fea5bfa7d968fcb0ee3c0a56b59004c5fdc3f57d494ef"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2f6719f036eed4e0c479eadaa27b552069902cf11d0b247b2c30204f12f2ee11"
+hash = "f58aff5a9bfd00a7466b85504214f5a1ca63f3abc1216773d3f2d14c901eaf69"
 
 [[files]]
 file = "config/ysns/disabled_entities.json5"
