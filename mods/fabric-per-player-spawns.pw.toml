@@ -1,0 +1,13 @@
+name = "Fabric per player spawns"
+filename = "fabric-per-player-spawns-3.0.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/mHrFHOJ0/versions/6tSpbtUi/fabric-per-player-spawns-3.0.6.jar"
+hash-format = "sha512"
+hash = "3591d857a61a0f87ebf2a236e5ace1b45f474d37f784cc853fb19c0fdea9d87f7a3803f03b4d2daccedc54caceda611e20615a7e4bb7ab22a45dc4b553027720"
+
+[update]
+[update.modrinth]
+mod-id = "mHrFHOJ0"
+version = "6tSpbtUi"

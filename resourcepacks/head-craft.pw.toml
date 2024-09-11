@@ -1,0 +1,13 @@
+name = "Pengu's Head-Craft"
+filename = "Pengu's Head-Craft v1.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h5W6JPuS/versions/vlho8Bqi/Pengu%27s%20Head-Craft%20v1.2.zip"
+hash-format = "sha512"
+hash = "dfd2d7801a74f959622768099c7c8f14c3e6d5adf5ec5336b8e454a697183234d8e4f503729cd7986e34059ebcef0e0d2738dc6a04e694af541c40e899fa8ccc"
+
+[update]
+[update.modrinth]
+mod-id = "h5W6JPuS"
+version = "vlho8Bqi"

@@ -2333,6 +2333,11 @@ hash = "3be4d8184379525c27fee02066e56149bc701189a4b8b4c5ec5deff189f1422d"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
+metafile = true
+
+[[files]]
 file = "mods/boat-break-fix.pw.toml"
 hash = "f60a63c3251ebf33f6636e5fd773f281d3f09b3a273e346b1d2547cc0c67559b"
 metafile = true
@@ -2643,6 +2648,11 @@ hash = "bdebed2b58b45cce33dbe972bb33201247afbd5c9a56f2edbe441880c395a035"
 metafile = true
 
 [[files]]
+file = "mods/disguiseheads.pw.toml"
+hash = "9415e811ca91ea932332aad5780771d6c7db67c95d00c32f86b5c73ba85b6621"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "39b5a8375c756d2ff436829aa67ea45e5447f404e9cb4922095a90cfcffe04ef"
 metafile = true
@@ -2760,6 +2770,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "130d2b078d1a73c86271a0222fcefbd24f5f816df37d94fa780d37a5f1605119"
+metafile = true
+
+[[files]]
+file = "mods/fabric-per-player-spawns.pw.toml"
+hash = "e9ef04f6c8e8a9443ee8ee9662d95173c420f1045c0031f61bc402543b054afb"
 metafile = true
 
 [[files]]
@@ -3050,6 +3065,11 @@ metafile = true
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "dc1fcf1d5c656c6c18416551f474586f7d6539e67c3f3ab255069e1961de26b1"
+metafile = true
+
+[[files]]
+file = "mods/keepheadnames.pw.toml"
+hash = "f969a3b7798568c06dae520493dd6ee477ba9bcb1a6b5ea679927d598d6b79eb"
 metafile = true
 
 [[files]]
@@ -3796,6 +3816,11 @@ hash = "33c625f334d68395ca1084fc7a3efb1cdd80d2d8c9eaf234150c64bd62054f1d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/head-craft.pw.toml"
+hash = "611b43ec45010f03a1541250443cfc2b06783909af759ef125b3c7c24fe54566"
+metafile = true
+
+[[files]]
 file = "resourcepacks/joes-comfy-ui.pw.toml"
 hash = "853afd5cbb99192e5f70efc65dba099c9efc7a2512b92538af08404c413542f3"
 metafile = true
@@ -3827,7 +3852,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "961b40e208e19030995c35229da5ef6ac28ef8fe669281167dca843e88dbdfa4"
+hash = "b2c3bb798b91f3015b87253b79c21af455b5edd3d7a24e7fc18d7f74b548a012"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.2.2 - Modified by BCG.txt"
@@ -3843,5 +3868,5 @@ hash = "bf3e7ed5f407ab31f65aaaa4531e5a01da128f6e4823754d0e00e7734b0f8a47"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "8a72dc1bff556553bc502e93fd133b2cfc736688c95e997d501803831f94ba22"
+hash = "8f8f05944c6f7cebd1d8ca6f07edb8a809575f79cd672f84e359c8153174a3a2"
 metafile = true
