@@ -3736,10 +3736,6 @@ hash = "1ce6ed09d0a530d42893846137f6ea4c5e07eba0ce8fe5f508c455528293a218"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "f58aff5a9bfd00a7466b85504214f5a1ca63f3abc1216773d3f2d14c901eaf69"
-
-[[files]]
 file = "resourcepacks/BCG+ Compat Pack.zip"
 hash = "d1b3718d9ec15314391f8e9f3fe2d7e931e8431923ec2cbd8008794015f66f80"
 
