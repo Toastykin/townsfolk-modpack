@@ -196,7 +196,7 @@
 			#Prefix "anything$" is the same as no prefix but allows interaction with any item held in the hand. Please make sure that no item does anything bad when used at a block with such an exception.
 			#Add the same block/tag multiple times to use multiple prefixes. Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:lever", "minecraft:*_button", "break$minecraft:*_button", "break$minecraft:(*_|)sand"]
-			forcedBlockProtectionExceptionList = ["minecraft:crafting_table", "cobblemon:(pc|healing_machine)", "minecraft:ender_chest", "#forge:chests/ender", "minecraft:enchanting_table"]
+			forcedBlockProtectionExceptionList = ["minecraft:crafting_table", "cobblemon:(pc|healing_machine)", "#c:ender_chests", "minecraft:enchanting_table", "#waystones", "#chair"]
 			#Entities that can bypass all block protection. Supports entity type tags.
 			#Prefixing an entity id/tag with "interact$" creates an exception which tries to exclude block breaking.
 			#Prefixing an entity id/tag with "break$" creates an exception that only includes block breaking.

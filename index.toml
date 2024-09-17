@@ -1338,7 +1338,7 @@ hash = "18f3965d4e4c4e82ff35b29346b813a0a2daf3c75d1d030bf2cc301cabd3128c"
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
-hash = "d8064bcf7c07d0beb3aafdcb0a7e4859ebbe9dc8c2a91bb9ab368e9c1ac29b8f"
+hash = "0fbb6328586b90a18dd6803fddf7a4a6a76817d6702bbaa0ebf59a0822eb60ec"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
