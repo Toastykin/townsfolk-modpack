@@ -237,6 +237,9 @@ key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:0.6010322116305682
 soundCategory_music:0.30604070081159346
 soundCategory_record:0.20315442301974473
+soundCategory_master:0.35540838852097123
+soundCategory_music:0.056338028169014086
+soundCategory_record:0.13145539906103298
 soundCategory_weather:0.4023224570251848
 soundCategory_block:0.40745961303395045
 soundCategory_hostile:0.4093674635773987
