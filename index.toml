@@ -1746,7 +1746,7 @@ hash = "13689a816327702eed6fea5bfa7d968fcb0ee3c0a56b59004c5fdc3f57d494ef"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5333a1ab710dcd3019f8f268b6847923f840de466add94753aee875c85279eed"
+hash = "f6708378332873a521d6c7ff525c9e0abca63d4059fee5ac0cd48ad4e531b6c1"
 
 [[files]]
 file = "config/ysns/disabled_entities.json5"
