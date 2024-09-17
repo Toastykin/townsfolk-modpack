@@ -1590,11 +1590,6 @@
 					item: "cobblemon:master_ball"
 					type: "item"
 				}
-				{
-					id: "2575942DA57E8D5E"
-					item: "create:creative_motor"
-					type: "item"
-				}
 			]
 			size: 1.5d
 			subtitle: "You will not complete this."
