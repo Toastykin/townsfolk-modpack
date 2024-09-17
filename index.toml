@@ -794,7 +794,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "9d8e51afc45c28b37d6bdf36a82e83f1419d697eb788c827e8b8e5d913942fc6"
+hash = "8db33a636ac038b7c7a04f434d53f6f17ae9f72d5f5420cfb038e18274554625"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -1337,6 +1337,10 @@ file = "config/notenoughanimations.json"
 hash = "18f3965d4e4c4e82ff35b29346b813a0a2daf3c75d1d030bf2cc301cabd3128c"
 
 [[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "d8064bcf7c07d0beb3aafdcb0a7e4859ebbe9dc8c2a91bb9ab368e9c1ac29b8f"
+
+[[files]]
 file = "config/overflowingbars-client.toml"
 hash = "1c5a6d5acc4543ecdd1ee18716af8b96fab5a2a94f4a74f4196d934da28235b6"
 
@@ -1755,6 +1759,10 @@ hash = "fe0bc8c3a04c4f9c39caea44a81d725dbdc02db561b52d6681c10cb34063174a"
 [[files]]
 file = "config/zoomify.json"
 hash = "a8a1e3aaaaa826eb787c7958d1c38bfe401d38b947bdea24359a25742558219d"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "238576c3197d7e12e24ca75e72ad24e62fc6b74941f8879c98d8cc7a3c5282d5"
 
 [[files]]
 file = "emi.json"
@@ -2466,6 +2474,11 @@ hash = "c1242b80aea0726aae08e0cfdb220266960d62e41ab4db60403bdbcd854d6a7d"
 metafile = true
 
 [[files]]
+file = "mods/cobblemounts.pw.toml"
+hash = "e51a32849bb64506599ab73fde1a0ccebb423d05768d70d70a3aa0258ac87823"
+metafile = true
+
+[[files]]
 file = "mods/cobblepedia.pw.toml"
 hash = "d7269e2463ca71c973ef513883cbe7c6891001831890f0019e2d642566428368"
 metafile = true
@@ -2681,6 +2694,21 @@ hash = "b1db3ea8c8a1db908208455a446beaad8519683a6185fc8c66390f933bb19d06"
 metafile = true
 
 [[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "c19a508c148dbd12a6b9d5b1576d312ae2ba5dbbc300bcc46d7f9aae1b73e81a"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "5ff687c603a6830e13ce305f1fe62e583295d65032c0f6eeab2d4ca3eab02e32"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "cb838eebb89a48121e1f36fe7c28f58e0b965ea1d7ac9c5ed423ed887f102d9d"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "c0013467b23f106e535f95c8f71edce2628e91cf68edc6cb05042538928569c9"
 metafile = true
@@ -2748,6 +2776,11 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "0e9fc2e4d0b795923e35cafc0f483be29008d1a9b08f455702082606a1a90313"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "6825690eefa5d0ab6e5e313c1d61ec7894f4debfa8aba4c412ec8e60eeb68c74"
 metafile = true
 
 [[files]]
@@ -2861,11 +2894,6 @@ hash = "be83bb10e51d5b99d4a83edfee565357d4aff71779cd3ce1e0a18f79c1f06a86"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "479735a19070f574ba4af76248159da35c2aaf3f70a36155396cf7e00b4ec21b"
-metafile = true
-
-[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "a1b0cc10058f3edaf9f39424d39cc910a535c5006f57c85834cff0ce7a86fd44"
 metafile = true
@@ -2897,7 +2925,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "8873cfd73fe9c2089e00cfc762159e779006f49be89a8c138140fefa2c365c9c"
+hash = "ccee1ff4ccc3def804c89dd2cdac3935ff1145df2caaa0fb85b7e4d0ef100ef3"
 metafile = true
 
 [[files]]
@@ -3046,8 +3074,8 @@ hash = "4020f4d1ccecfd5c5a7a7b3b520368767c93723eb3c689fa993c277b5a7940f9"
 metafile = true
 
 [[files]]
-file = "mods/journeymap-integration.pw.toml"
-hash = "2dbcea9b316e168f37c26da9dc15dca4176bbe73d2d8dbabcb217efe3b250a57"
+file = "mods/journey-pac.pw.toml"
+hash = "9647e45a7ca6353f2765235a48fd5649669df3e5d31396eb595372160f8e087e"
 metafile = true
 
 [[files]]
@@ -3063,6 +3091,11 @@ metafile = true
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "dc1fcf1d5c656c6c18416551f474586f7d6539e67c3f3ab255069e1961de26b1"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "7b6c04ee1d96c39684ba23eec607ce29d33cb4a48e080f5ff664cf67188e3cf8"
 metafile = true
 
 [[files]]
@@ -3338,6 +3371,21 @@ metafile = true
 [[files]]
 file = "mods/offline-daylight-stop.pw.toml"
 hash = "61c95da51f4241225c69fe35143d875421e0ccfd30b3ff76eda42296371ddd34"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "b5cff3ca9e8514494658b7d4f758be88566f8a6adc7f430e8a7bc64d635733de"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "656545c30334dd776f1fd31f3089f19b424a12e1618ec6a12c04bcb8af224e53"
+metafile = true
+
+[[files]]
+file = "mods/openpac-bluemap-remapped.pw.toml"
+hash = "cd00059a964f8b2492a8f44acfd73410f254a32d6e710ced9115c640e63eb28d"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "BCG+ Toasty Edition"
 author = "jflec, Fummo"
-version = "2.7.0.0"
+version = "2.7.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "af05a14d059256e036e951e8adf90ffb783dffbe6ea61bba411f6d9c9a85f797"
+hash = "d7bc811eb06bf897ca55bee3ca4086fe58fb131283f8812b67700670ac15ba5f"
 
 [versions]
 fabric = "0.16.0"
