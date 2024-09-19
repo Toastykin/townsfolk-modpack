@@ -794,7 +794,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "8db33a636ac038b7c7a04f434d53f6f17ae9f72d5f5420cfb038e18274554625"
+hash = "419ccdb172fc46f969ef35b9c7707ef5bc5fed2644d2d6e6fc702515e1207c68"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -910,7 +910,7 @@ hash = "1fd7f9dfe872480b8dbfbd17bb905b1c564d115bcc9a9c73cf0298ebbcd8caf6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cobblemon.snbt"
-hash = "a28c68074bff41d3867174ad9cbfba258bb2d6d6449f4ebf5fb6586dc3de2d67"
+hash = "e92c0a51fa2c1aac70b81fbbc0246db43b54cc94789b1535ebdbc883431f4e2a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/compact_storage.snbt"
@@ -1337,10 +1337,6 @@ file = "config/notenoughanimations.json"
 hash = "18f3965d4e4c4e82ff35b29346b813a0a2daf3c75d1d030bf2cc301cabd3128c"
 
 [[files]]
-file = "config/openpartiesandclaims-server.toml"
-hash = "0fbb6328586b90a18dd6803fddf7a4a6a76817d6702bbaa0ebf59a0822eb60ec"
-
-[[files]]
 file = "config/overflowingbars-client.toml"
 hash = "1c5a6d5acc4543ecdd1ee18716af8b96fab5a2a94f4a74f4196d934da28235b6"
 
@@ -1746,7 +1742,7 @@ hash = "13689a816327702eed6fea5bfa7d968fcb0ee3c0a56b59004c5fdc3f57d494ef"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f6708378332873a521d6c7ff525c9e0abca63d4059fee5ac0cd48ad4e531b6c1"
+hash = "f58aff5a9bfd00a7466b85504214f5a1ca63f3abc1216773d3f2d14c901eaf69"
 
 [[files]]
 file = "config/ysns/disabled_entities.json5"
@@ -2894,6 +2890,11 @@ hash = "be83bb10e51d5b99d4a83edfee565357d4aff71779cd3ce1e0a18f79c1f06a86"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "479735a19070f574ba4af76248159da35c2aaf3f70a36155396cf7e00b4ec21b"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "a1b0cc10058f3edaf9f39424d39cc910a535c5006f57c85834cff0ce7a86fd44"
 metafile = true
@@ -2921,11 +2922,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
 hash = "1cf33a67953c1bfb96f37d01ada32591355112f6970daca0edad2f5fa5913be1"
-metafile = true
-
-[[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "ccee1ff4ccc3def804c89dd2cdac3935ff1145df2caaa0fb85b7e4d0ef100ef3"
 metafile = true
 
 [[files]]
@@ -3074,8 +3070,8 @@ hash = "4020f4d1ccecfd5c5a7a7b3b520368767c93723eb3c689fa993c277b5a7940f9"
 metafile = true
 
 [[files]]
-file = "mods/journey-pac.pw.toml"
-hash = "9647e45a7ca6353f2765235a48fd5649669df3e5d31396eb595372160f8e087e"
+file = "mods/journeymap-integration.pw.toml"
+hash = "2dbcea9b316e168f37c26da9dc15dca4176bbe73d2d8dbabcb217efe3b250a57"
 metafile = true
 
 [[files]]
@@ -3371,21 +3367,6 @@ metafile = true
 [[files]]
 file = "mods/offline-daylight-stop.pw.toml"
 hash = "61c95da51f4241225c69fe35143d875421e0ccfd30b3ff76eda42296371ddd34"
-metafile = true
-
-[[files]]
-file = "mods/opac-fabric-create-support.pw.toml"
-hash = "b5cff3ca9e8514494658b7d4f758be88566f8a6adc7f430e8a7bc64d635733de"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "656545c30334dd776f1fd31f3089f19b424a12e1618ec6a12c04bcb8af224e53"
-metafile = true
-
-[[files]]
-file = "mods/openpac-bluemap-remapped.pw.toml"
-hash = "cd00059a964f8b2492a8f44acfd73410f254a32d6e710ced9115c640e63eb28d"
 metafile = true
 
 [[files]]
